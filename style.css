@@ -1,8 +1,8 @@
 .liveTvPage .cardImage, .coveredImage {
-    background-size: contain;
+    background-size: contain !important;
 }
 
 .liveTvPage .cardImageContainer {
-    background-size: contain;
+    background-size: contain !important;
 }
 
