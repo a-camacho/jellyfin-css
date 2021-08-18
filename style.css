@@ -1,0 +1,3 @@
+.cardImage, .coveredImage {
+    background-size: contain;
+}
